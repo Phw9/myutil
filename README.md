@@ -1,4 +1,4 @@
-# myutil
+# my_pyutil
 
 ```
 # 가상 환경 생성
