@@ -7,6 +7,10 @@ python3 -m venv myenv
 # 가상 환경 activate
 source myenv/bin/activate
 
+cd myenv
+git clone this repo
+cd py_myutil/pyutil
+python3 ***.py
 ```
 
 ## module 설치
